@@ -1,0 +1,12 @@
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\bin\Debug\netstandard2.0\DAL.dll
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\bin\Debug\netstandard2.0\DAL.pdb
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\bin\Debug\netstandard2.0\Entidad.dll
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\bin\Debug\netstandard2.0\Entidad.pdb
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\obj\Debug\netstandard2.0\DAL.csprojAssemblyReference.cache
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\obj\Debug\netstandard2.0\DAL.csproj.CopyComplete
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\obj\Debug\netstandard2.0\DAL.dll
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\DAL\obj\Debug\netstandard2.0\DAL.pdb

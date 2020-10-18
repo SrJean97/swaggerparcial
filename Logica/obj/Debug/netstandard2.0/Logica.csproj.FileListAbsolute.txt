@@ -1,0 +1,14 @@
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\bin\Debug\netstandard2.0\Logica.deps.json
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\bin\Debug\netstandard2.0\Logica.dll
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\bin\Debug\netstandard2.0\Logica.pdb
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\bin\Debug\netstandard2.0\DAL.dll
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\bin\Debug\netstandard2.0\Entidad.dll
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\bin\Debug\netstandard2.0\DAL.pdb
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\bin\Debug\netstandard2.0\Entidad.pdb
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\obj\Debug\netstandard2.0\Logica.csprojAssemblyReference.cache
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfoInputs.cache
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\obj\Debug\netstandard2.0\Logica.AssemblyInfo.cs
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\obj\Debug\netstandard2.0\Logica.csproj.CoreCompileInputs.cache
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\obj\Debug\netstandard2.0\Logica.csproj.CopyComplete
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\obj\Debug\netstandard2.0\Logica.dll
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Logica\obj\Debug\netstandard2.0\Logica.pdb

@@ -1,0 +1,9 @@
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Entidad\bin\Debug\netstandard2.0\Entidad.deps.json
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Entidad\bin\Debug\netstandard2.0\Entidad.dll
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Entidad\bin\Debug\netstandard2.0\Entidad.pdb
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Entidad\obj\Debug\netstandard2.0\Entidad.csprojAssemblyReference.cache
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfoInputs.cache
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Entidad\obj\Debug\netstandard2.0\Entidad.AssemblyInfo.cs
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Entidad\obj\Debug\netstandard2.0\Entidad.csproj.CoreCompileInputs.cache
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Entidad\obj\Debug\netstandard2.0\Entidad.dll
+c:\Users\jhean\OneDrive\Documentos\2020-2\BAJO WEB\SEGUNDO CORTE\PARCIALCAPAS\Entidad\obj\Debug\netstandard2.0\Entidad.pdb
